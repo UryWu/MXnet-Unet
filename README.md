@@ -38,9 +38,7 @@ trans_gray.py 图片变灰色，那个蓝绿色的Unet目标分割的图转换�
 
 运行fill_one_pic_improve_click_area.py后，在出现的图中拖动鼠标，截取某人，按'q'，未被截取部分的人像消失。
 
-<video id="video" controls="" preload="none">
-    <source id="mp4" src=".\bandicam 2020-01-03 15-51-03-776抠图应用.mp4" type="video/mp4">
-</video>
+![img](https://github.com/UryWu/MXnet-Unet/blob/master/%E5%BA%94%E7%94%A8%E6%BC%94%E7%A4%BA.gif)
 
 #### 其它：
 
